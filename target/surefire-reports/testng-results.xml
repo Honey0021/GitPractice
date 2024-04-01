@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="39" started-at="2023-04-28T17:24:04 IST" finished-at="2023-04-28T17:24:04 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="39" started-at="2023-04-28T17:24:04 IST" finished-at="2023-04-28T17:24:04 IST">
+      <class name="PracticeMaven.MavenExample.AppiumTest">
+        <test-method status="PASS" signature="NativeApp()[pri:0, instance:PracticeMaven.MavenExample.AppiumTest@71bbf57e]" name="NativeApp" duration-ms="3" started-at="2023-04-28T17:24:04 IST" finished-at="2023-04-28T17:24:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeApp -->
+        <test-method status="PASS" signature="iOSApp()[pri:0, instance:PracticeMaven.MavenExample.AppiumTest@71bbf57e]" name="iOSApp" duration-ms="0" started-at="2023-04-28T17:24:04 IST" finished-at="2023-04-28T17:24:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iOSApp -->
+      </class> <!-- PracticeMaven.MavenExample.AppiumTest -->
+      <class name="PracticeMaven.MavenExample.RESTAPIAssuredTest">
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:PracticeMaven.MavenExample.RESTAPIAssuredTest@1f7030a6]" name="PostJira" duration-ms="1" started-at="2023-04-28T17:24:04 IST" finished-at="2023-04-28T17:24:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:PracticeMaven.MavenExample.RESTAPIAssuredTest@1f7030a6]" name="deleteTwitter" duration-ms="0" started-at="2023-04-28T17:24:04 IST" finished-at="2023-04-28T17:24:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- PracticeMaven.MavenExample.RESTAPIAssuredTest -->
+      <class name="PracticeMaven.MavenExample.SeleniumJavaTest">
+        <test-method status="PASS" signature="WebBrowser()[pri:0, instance:PracticeMaven.MavenExample.SeleniumJavaTest@5a1c0542]" name="WebBrowser" duration-ms="1" started-at="2023-04-28T17:24:04 IST" finished-at="2023-04-28T17:24:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebBrowser -->
+        <test-method status="PASS" signature="WebTesting()[pri:0, instance:PracticeMaven.MavenExample.SeleniumJavaTest@5a1c0542]" name="WebTesting" duration-ms="0" started-at="2023-04-28T17:24:04 IST" finished-at="2023-04-28T17:24:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebTesting -->
+      </class> <!-- PracticeMaven.MavenExample.SeleniumJavaTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
